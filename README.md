@@ -1,16 +1,26 @@
-### Hi there 👋
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there, I'm Frank Schneider 👋
 
-<!--
-**fsschneider/fsschneider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Ph.D. student** in the [Methods of Machine Learning group](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/methods-of-machine-learning/start/) at the [**University of Tübingen**](https://uni-tuebingen.de/en/) and part of the [International Max Planck Research School for Intelligent Systems](https://imprs.is.mpg.de/).
 
-Here are some ideas to get you started:
+**I work to make deep learning more user-friendly by focusing on the training algorithms.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 I’m currently working on **faster training methods for deep neural networks**.
+- 🥇 My past projects have focused on creating **benchmarks for deep learning optimizers** (see [DeepOBS](https://arxiv.org/abs/1903.05499) and [Descending through a Crowded Valley](https://arxiv.org/abs/2007.01547) and novel debugging tools for training neural networks (see [Cockpit](https://arxiv.org/abs/2102.06604).
+- 🧑‍🤝‍🧑 I’m part of the **MLCommons**™ working group for [**Algorithmic Efficiency**](https://mlcommons.org/en/groups/research-algorithms/), building a [competition and benchmark](https://github.com/mlcommons/algorithmic-efficiency) of faster neural network training algorithms.
+
+### Connect with me:
+
+<a href="https://twitter.com/frankstefansch1">
+  <img align="left" alt="Frank's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
+</a>
+<a href="https://fsschneider.github.io">
+  <img align="left" alt="Frank's Website" width="20px" src="https://simpleicons.now.sh/googlechrome/495f7e" />
+</a>
+<a href="https://linkedin.com/in/frankstefanschneider">
+  <img align="left" alt="Frank's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
+</a>
+
+</br>
+</br>
+
+[![Frank's GitHub stats](https://github-readme-stats.vercel.app/api?username=fsschneider&count_private=true&show_icons=true&)](https://github.com/fsschneider)
