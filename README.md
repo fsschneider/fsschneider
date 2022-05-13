@@ -5,7 +5,7 @@ I am a **Ph.D. student** in the [Methods of Machine Learning group](https://uni-
 **I work to make deep learning more user-friendly by focusing on the training algorithms.**
 
 - 🚀 I’m currently working on **faster training methods for deep neural networks**.
-- 🥇 My past projects have focused on creating **benchmarks for deep learning optimizers** (see [DeepOBS](https://arxiv.org/abs/1903.05499) and [Descending through a Crowded Valley](https://arxiv.org/abs/2007.01547) and novel debugging tools for training neural networks (see [Cockpit](https://arxiv.org/abs/2102.06604).
+- 🥇 My past projects have focused on creating **benchmarks for deep learning optimizers** (see [DeepOBS](https://arxiv.org/abs/1903.05499) and [Descending through a Crowded Valley](https://arxiv.org/abs/2007.01547)) and novel debugging tools for training neural networks (see [Cockpit](https://arxiv.org/abs/2102.06604)).
 - 🧑‍🤝‍🧑 I’m part of the **MLCommons**™ working group for [**Algorithmic Efficiency**](https://mlcommons.org/en/groups/research-algorithms/), building a [competition and benchmark](https://github.com/mlcommons/algorithmic-efficiency) of faster neural network training algorithms.
 
 ### Connect with me:
