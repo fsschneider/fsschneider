@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there, I'm Frank Schneider 👋
 
-I am a **Ph.D. student** in the [Methods of Machine Learning group](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/methods-of-machine-learning/start/) at the [**University of Tübingen**](https://uni-tuebingen.de/en/) and part of the [International Max Planck Research School for Intelligent Systems](https://imprs.is.mpg.de/).
+I am a **Postdoctoral Researcher** in the [Methods of Machine Learning group](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/methods-of-machine-learning/start/) at the [**University of Tübingen**](https://uni-tuebingen.de/en/).
 
 **I work to make deep learning more user-friendly by focusing on the training algorithms.**
 
