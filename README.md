@@ -11,7 +11,7 @@ I am a **Postdoctoral Researcher** in the [Methods of Machine Learning group](ht
 ### Connect with me:
 
 <a href="https://twitter.com/frankstefansch1">
-  <img align="left" alt="Frank's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
+  <img align="left" alt="Frank's Twitter" width="20px" src="https://simpleicons.now.sh/x/495f7e" />
 </a>
 <a href="https://fsschneider.github.io">
   <img align="left" alt="Frank's Website" width="20px" src="https://simpleicons.now.sh/googlechrome/495f7e" />
