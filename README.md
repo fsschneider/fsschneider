@@ -17,7 +17,7 @@ I am a **Postdoctoral Researcher** in the [Methods of Machine Learning group](ht
   <img align="left" alt="Frank's Website" width="20px" src="https://simpleicons.now.sh/googlechrome/495f7e" />
 </a>
 <a href="https://linkedin.com/in/frankstefanschneider">
-  <img align="left" alt="Frank's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
+  <img align="left" alt="Frank's LinkedIn" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" />
 </a>
 
 </br>
